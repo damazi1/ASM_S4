@@ -1,0 +1,20 @@
+﻿  Assembling G:\Mój dysk\Studia\niskopoz\lab03\source.asm...
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(1): error A2013: .MODEL must precede this directive
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(3): error A2034: must be in segment block : asm_03_04_01
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(4): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(5): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(6): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(7): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(8): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(9): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(10): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(11): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(12): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(13): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(14): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(15): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(16): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(17): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(18): error A2034: must be in segment block
+G:\Mˇj dysk\Studia\niskopoz\lab03\source.asm(19): fatal error A1010: unmatched block nesting : asm_03_04_01
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\source.obj" /W3 /errorReport:prompt  /Ta"G:\Mój dysk\Studia\niskopoz\lab03\source.asm"" exited with code 1.

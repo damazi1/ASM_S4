@@ -1,0 +1,107 @@
+﻿  main.cpp
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(26,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(27,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(27,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(27,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(28,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(28,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(28,7): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(29,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(29,3): error C2065: 'cmp': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(29,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(29,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(30,3): error C2146: syntax error: missing ';' before identifier 'jl'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(30,3): error C2065: 'jl': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(30,6): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(30,6): error C2065: '_skip': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(31,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(31,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(31,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(31,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(31,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(32,2): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(33,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(33,7): error C2146: syntax error: missing ';' before identifier 'min'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(33,13): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(34,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(39,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(40,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(40,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(40,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(41,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(41,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(41,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(41,7): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(42,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(42,3): error C2065: 'cmp': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(42,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(42,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(42,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(43,3): error C2146: syntax error: missing ';' before identifier 'jg'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(43,3): error C2065: 'jg': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(43,6): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(43,6): error C2065: '_skip': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(44,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(44,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(44,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(44,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(44,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(45,4): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(46,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(46,7): error C2146: syntax error: missing ';' before identifier 'max'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(46,12): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(47,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(53,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(54,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(54,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(54,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(55,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(55,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(55,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(55,7): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(56,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(56,3): error C2065: 'cmp': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(56,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(56,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(56,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(57,3): error C2146: syntax error: missing ';' before identifier 'jc'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(57,3): error C2065: 'jc': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(57,6): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(57,6): error C2065: '_skip': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(58,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(58,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(58,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(58,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(58,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(59,3): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(60,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(60,7): error C2146: syntax error: missing ';' before identifier 'min'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(60,12): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(61,2): error C2143: syntax error: missing ';' before '}'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(66,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(67,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(67,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(67,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(68,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(68,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(68,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(68,7): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(69,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(69,3): error C2065: 'cmp': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(69,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(69,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(69,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(70,3): error C2146: syntax error: missing ';' before identifier 'jnc'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(70,3): error C2065: 'jnc': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(70,7): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(70,7): error C2065: '_skip': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(71,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(71,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(71,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(71,7): error C2065: 'eax': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(71,12): error C2065: 'ebx': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(72,3): error C2146: syntax error: missing ';' before identifier '_skip'
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(73,3): error C2065: 'mov': undeclared identifier
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(73,3): error C1003: error count exceeds 100; stopping compilation

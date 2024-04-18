@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(148,3): warning C4405: 'str': identifier is reserved word
+C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(152,3): warning C4405: 'str': identifier is reserved word
+  03_if.vcxproj -> C:\Users\damazi\source\repos\03_lab\Debug\03_if.exe
