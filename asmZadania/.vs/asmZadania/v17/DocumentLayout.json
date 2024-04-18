@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\plik1\\asmZadania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6AC3B5-D8B2-4673-9ABB-21B9D8818277}|asmZadania\\asmZadania.vcxproj|Z:\\plik1\\asmZadania\\asmZadania\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B6AC3B5-D8B2-4673-9ABB-21B9D8818277}|asmZadania\\asmZadania.vcxproj|solutionrelative:asmZadania\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6AC3B5-D8B2-4673-9ABB-21B9D8818277}|asmZadania\\asmZadania.vcxproj|Z:\\plik1\\asmZadania\\asmZadania\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B6AC3B5-D8B2-4673-9ABB-21B9D8818277}|asmZadania\\asmZadania.vcxproj|solutionrelative:asmZadania\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7578BCE-26F6-42BB-9F09-096F7B4E0A8D}|asmlab05\\asmlab05.vcxproj|Z:\\plik1\\asmZadania\\asmlab05\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F7578BCE-26F6-42BB-9F09-096F7B4E0A8D}|asmlab05\\asmlab05.vcxproj|solutionrelative:asmlab05\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7578BCE-26F6-42BB-9F09-096F7B4E0A8D}|asmlab05\\asmlab05.vcxproj|Z:\\plik1\\asmZadania\\asmlab05\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7578BCE-26F6-42BB-9F09-096F7B4E0A8D}|asmlab05\\asmlab05.vcxproj|solutionrelative:asmlab05\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7578BCE-26F6-42BB-9F09-096F7B4E0A8D}|asmlab05\\asmlab05.vcxproj|Z:\\plik1\\asmZadania\\asmlab05\\lab05.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7578BCE-26F6-42BB-9F09-096F7B4E0A8D}|asmlab05\\asmlab05.vcxproj|solutionrelative:asmlab05\\lab05.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.asm",
+              "DocumentMoniker": "Z:\\plik1\\asmZadania\\asmZadania\\source.asm",
+              "RelativeDocumentMoniker": "asmZadania\\source.asm",
+              "ToolTip": "Z:\\plik1\\asmZadania\\asmZadania\\source.asm",
+              "RelativeToolTip": "asmZadania\\source.asm",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAAADkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-16T15:30:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "Z:\\plik1\\asmZadania\\asmZadania\\main.cpp",
+              "RelativeDocumentMoniker": "asmZadania\\main.cpp",
+              "ToolTip": "Z:\\plik1\\asmZadania\\asmZadania\\main.cpp",
+              "RelativeToolTip": "asmZadania\\main.cpp",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T15:30:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.asm",
+              "DocumentMoniker": "Z:\\plik1\\asmZadania\\asmlab05\\source.asm",
+              "RelativeDocumentMoniker": "asmlab05\\source.asm",
+              "ToolTip": "Z:\\plik1\\asmZadania\\asmlab05\\source.asm",
+              "RelativeToolTip": "asmlab05\\source.asm",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAWwFAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-16T15:08:02.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab05.h",
+              "DocumentMoniker": "Z:\\plik1\\asmZadania\\asmlab05\\lab05.h",
+              "RelativeDocumentMoniker": "asmlab05\\lab05.h",
+              "ToolTip": "Z:\\plik1\\asmZadania\\asmlab05\\lab05.h",
+              "RelativeToolTip": "asmlab05\\lab05.h",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAiwFwBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-16T15:06:38.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "Z:\\plik1\\asmZadania\\asmlab05\\main.cpp",
+              "RelativeDocumentMoniker": "asmlab05\\main.cpp",
+              "ToolTip": "Z:\\plik1\\asmZadania\\asmlab05\\main.cpp",
+              "RelativeToolTip": "asmlab05\\main.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv0wAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T15:05:22.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
