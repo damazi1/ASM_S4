@@ -1,2 +1,6 @@
-﻿  main.cpp
-  LAB02cw.vcxproj -> C:\Users\damazi\source\repos\LAB02cw\Debug\LAB02cw.exe
+﻿  Assembling source.asm...
+source.asm(1): error A2013: .MODEL must precede this directive
+source.asm(3): error A2034: must be in segment block : asm01_01
+source.asm(4): error A2034: must be in segment block
+source.asm(5): fatal error A1010: unmatched block nesting : asm01_01
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\source.obj" /W3 /errorReport:prompt  /Tasource.asm" exited with code 1.

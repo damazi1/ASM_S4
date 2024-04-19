@@ -25,8 +25,7 @@ int main() {
 	//1. y = a + b + 2c
 	__asm {
 		mov eax, a
-		mov ebx, b
-		add eax, ebx
+		add eax, b
 		add eax, c
 		add eax, c
 		mov y, eax

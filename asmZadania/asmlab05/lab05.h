@@ -17,7 +17,7 @@ template <typename R, typename T> R cpp01_01(T** A, const uint rows, const uint 
     return y;
 }
 
-template <typename R, typename T> R cpp01_02(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_02(T** A, const uint rows, const uint cols) {
     R y = 1;
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
@@ -39,7 +39,7 @@ template <typename R, typename T> R cpp01_03(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_04(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_04(T** A, const uint rows, const uint cols) {
     R y = static_cast<R>(A[0][0]);
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
@@ -71,7 +71,7 @@ template <typename R, typename T> R cpp01_06(T** A, T** B, const uint rows, cons
     return y;
 }
 
-template <typename R, typename T> R cpp01_07(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_07(T** A, const uint rows, const uint cols) {
     R y = R();
     uint d = min(rows, cols);
     for (uint i = 0; i < d; ++i) {
@@ -80,7 +80,7 @@ template <typename R, typename T> R cpp01_07(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_08(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_08(T** A, const uint rows, const uint cols) {
     R y = 1;
     uint d = min(rows, cols);
     for (uint i = 0; i < d; ++i) {
@@ -89,7 +89,7 @@ template <typename R, typename T> R cpp01_08(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_09(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_09(T** A, const uint rows, const uint cols) {
     R y = static_cast<R>(A[0][0]);
     uint d = min(rows, cols);
     for (uint i = 0; i < d; ++i) {
@@ -139,7 +139,7 @@ template <typename R, typename T> R cpp01_13(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_14(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_14(T** A, const uint rows, const uint cols) {
     R y = R();
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
@@ -171,7 +171,7 @@ template <typename R, typename T> R cpp01_16(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_17(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_17(T** A, const uint rows, const uint cols) {
     R y = R();
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
@@ -183,7 +183,7 @@ template <typename R, typename T> R cpp01_17(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_18(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_18(T** A, const uint rows, const uint cols) {
     R y = R();
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
@@ -207,7 +207,7 @@ template <typename R, typename T> R cpp01_19(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_20(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_20(T** A, const uint rows, const uint cols) {
     R y = R();
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
@@ -230,7 +230,7 @@ template <typename R, typename T> R cpp01_21(const T** A, const uint rows, const
     return y;
 }
 
-template <typename R, typename T> R cpp01_22(const T** A, const uint rows, const uint cols) {
+template <typename R, typename T> R cpp01_22( T** A, const uint rows, const uint cols) {
     R y = R();
     uint d = min(rows, cols);
     for (uint i = 0; i < d; ++i) {
@@ -282,7 +282,7 @@ template <typename T> void cpp02_01(const T** A, const uint rows, const uint col
     }
 }
 
-template <typename T> void cpp02_02(const T** A, const uint rows, const uint cols) {
+template <typename T> void cpp02_02(T** A, const uint rows, const uint cols) {
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
             A[i][j] *= A[i][j];
@@ -298,7 +298,7 @@ template <typename T> void cpp02_03(const T** A, const T** B, const uint rows, c
     }
 }
 
-template <typename T> void cpp02_04(const T** A, const T** B, const uint rows, const uint cols) {
+template <typename T> void cpp02_04(T** A, T** B, const uint rows, const uint cols) {
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
             A[i][j] = (5 * A[i][j] + 4 * B[i][j]) / 3;
@@ -338,7 +338,7 @@ template <typename T> void cpp02_08(T** A, const uint rows, const uint cols) {
     }
 }
 
-template <typename T> void cpp02_09(const T** A, const uint rows, const uint cols) {
+template <typename T> void cpp02_09(T** A, const uint rows, const uint cols) {
     for (uint i = 1; i < rows; i += 2) {
         for (uint j = 1; j < cols; j += 2) {
             A[i][j] = 0;
@@ -433,7 +433,7 @@ template <typename T> void cpp02_17(const T** A, const T** Y, const uint rows, c
     }
 }
 
-template <typename T> void cpp02_18(const T** A, const T** Y, const uint rows, const uint cols) {
+template <typename T> void cpp02_18(T** A, T** Y, const uint rows, const uint cols) {
     for (uint i = 0; i < rows; ++i) {
         for (uint j = 0; j < cols; ++j) {
             if (i < j) {

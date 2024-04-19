@@ -1,2 +1,13 @@
 ﻿  Assembling G:\Mój dysk\Studia\niskopoz\lab03\source.asm...
-  03_switch.vcxproj -> C:\Users\damazi\source\repos\03_lab\x64\Debug\03_switch.exe
+  main.cpp
+G:\Mój dysk\Studia\niskopoz\lab03\main.cpp(23,17): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  G:\Mój dysk\Studia\niskopoz\lab03\main.cpp(23,17):
+  the template instantiation context (the oldest one first) is
+  	G:\Mój dysk\Studia\niskopoz\lab03\main.cpp(26,50):
+  	see reference to function template instantiation 'unsigned int popcount<unsigned __int64>(T)' being compiled
+          with
+          [
+              T=unsigned __int64
+          ]
+  
+  03_switch.vcxproj -> C:\Users\damazi\source\repos\damazi1\ASM_S4\03_lab\x64\Debug\03_switch.exe

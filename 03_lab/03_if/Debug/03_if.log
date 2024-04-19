@@ -1,4 +1,5 @@
 ﻿  main.cpp
-C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(148,3): warning C4405: 'str': identifier is reserved word
-C:\Users\damazi\source\repos\03_lab\03_if\main.cpp(152,3): warning C4405: 'str': identifier is reserved word
-  03_if.vcxproj -> C:\Users\damazi\source\repos\03_lab\Debug\03_if.exe
+C:\Users\damazi\source\repos\damazi1\ASM_S4\03_lab\03_if\main.cpp(148,3): warning C4405: 'str': identifier is reserved word
+C:\Users\damazi\source\repos\damazi1\ASM_S4\03_lab\03_if\main.cpp(152,3): warning C4405: 'str': identifier is reserved word
+  LINK : C:\Users\damazi\source\repos\damazi1\ASM_S4\03_lab\Debug\03_if.exe not found or not built by the last incremental link; performing full link
+  03_if.vcxproj -> C:\Users\damazi\source\repos\damazi1\ASM_S4\03_lab\Debug\03_if.exe
